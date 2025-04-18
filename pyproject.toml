@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mi-calculadora"
-version = "0.1.1" # Coincide con __version__
+version = "1.0" # Coincide con __version__
 authors = [
   { name="Godofredo Diaz", email="gdiaz@tecsup.edu.pe" }, # ¡Actualiza!
 ]

@@ -5,7 +5,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mi-calculadora"
+name = "gdiaz-my-calc-2025"
 version = "1.0" # Coincide con __version__
 authors = [
   { name="Godofredo Diaz", email="gdiaz@tecsup.edu.pe" }, # ¡Actualiza!

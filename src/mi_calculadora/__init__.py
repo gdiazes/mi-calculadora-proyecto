@@ -3,8 +3,8 @@
 Mi-Calculadora: Una librería simple con operaciones matemáticas básicas.
 """
 
-__version__ = "0.1.0" # Versión inicial
+__version__ = "1.00" # Versión inicial
 
-from .operaciones import sumar, restar, multiplicar, dividir
+from .operaciones import sumar, restar, multiplicar, dividir, potenciacion
 
-__all__ = ['sumar', 'restar', 'multiplicar', 'dividir']
+__all__ = ['sumar', 'restar', 'multiplicar', 'dividir','potenciacion']

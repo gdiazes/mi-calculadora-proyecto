@@ -13,7 +13,6 @@ Instala desde PyPI usando pip (asegúrate de usar el pip asociado a Python 3):
 python3 -m pip install mi-calculadora
 
 
-```bash
 
 
 import mi_calculadora
@@ -34,4 +33,4 @@ except ValueError as e:
     print(f"Error: {e}") # Error: No se puede dividir por cero.
 
 # Versión
-print(f"Versión: {mi_calculadora.__version__}") # 0.1.0 (o la versión actual)
+print(f"Versión: {mi_calculadora.__version__}") # 

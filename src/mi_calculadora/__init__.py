@@ -3,7 +3,7 @@
 Mi-Calculadora: Una librería simple con operaciones matemáticas básicas.
 """
 
-__version__ = "1.00" # Versión inicial
+__version__ = "1.2" # Versión inicial
 
 from .operaciones import sumar, restar, multiplicar, dividir, potenciacion
 

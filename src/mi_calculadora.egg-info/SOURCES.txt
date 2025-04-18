@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/mi_calculadora/__init__.py
+src/mi_calculadora/operaciones.py
+src/mi_calculadora.egg-info/PKG-INFO
+src/mi_calculadora.egg-info/SOURCES.txt
+src/mi_calculadora.egg-info/dependency_links.txt
+src/mi_calculadora.egg-info/top_level.txt
+tests/test_calculadora.py
